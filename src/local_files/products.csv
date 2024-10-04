@@ -1,0 +1,16 @@
+id,product_name,amount_produced,date
+1,Product A,120,2024-01-10
+2,Product B,80,2024-01-15
+3,Product A,150,2024-01-20
+4,Product C,200,2024-01-25
+5,Product B,90,2024-02-05
+6,Product D,300,2024-02-12
+7,Product A,110,2024-02-18
+8,Product C,220,2024-03-01
+9,Product B,160,2024-03-10
+10,Product D,130,2024-03-15
+11,Product A,140,2024-03-20
+12,Product E,170,2024-04-01
+13,Product C,90,2024-04-05
+14,Product D,250,2024-04-12
+15,Product B,200,2024-04-20
